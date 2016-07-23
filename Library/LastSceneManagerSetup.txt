@@ -1,0 +1,4 @@
+sceneSetups:
+- path: E:/HocTap/GIT/Ping_Pong_Game/Assets/Scenes/PingPongGame.unity
+  isLoaded: 1
+  isActive: 1

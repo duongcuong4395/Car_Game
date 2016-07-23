@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Car Tutorials.CSharp.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\JavaScripts\SoundToggler.js">
+    <Files>
+      <File FileName="Assets\Scripts\AI\AI_Car_Script.js" Line="13" Column="27" />
+      <File FileName="Assets\Scripts\AI\BreakingSector.js" Line="11" Column="72" />
+      <File FileName="Assets\Scripts\AI\AI_Wheel_Script.js" Line="11" Column="71" />
+      <File FileName="Assets\Scripts\JavaScripts\SoundToggler.js" Line="8" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
